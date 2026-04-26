@@ -1,0 +1,41 @@
+[
+    {
+        "bank": "HDFC",
+        "name": "HDFC Millennia",
+        "best_for": [
+            "shopping",
+            "online orders",
+            "food"
+        ],
+        "description": "5% cashback on Amazon, Flipkart, Zomato, Swiggy, etc."
+    },
+    {
+        "bank": "SBI",
+        "name": "SBI Cashback Card",
+        "best_for": [
+            "shopping",
+            "bills",
+            "online payments"
+        ],
+        "description": "5% cashback on all online spends."
+    },
+    {
+        "bank": "Axis",
+        "name": "Axis Ace",
+        "best_for": [
+            "bills",
+            "recharge",
+            "utilities",
+            "rent"
+        ],
+        "description": "5% cashback on Google Pay payments."
+    },
+    {
+        "bank": "ICICI",
+        "name": "Amazon Pay ICICI",
+        "best_for": [
+            "shopping"
+        ],
+        "description": "5% back on Amazon, 2% on Amazon Pay partners."
+    }
+]
